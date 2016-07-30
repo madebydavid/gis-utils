@@ -1,11 +1,11 @@
-# GIS Util
+# GIS Utils
 
 Some GIS utility functions I have used in multiple projects.
 
 ## Installation
 
 ```sh
-npm install gis-util --save
+npm install gis-utils --save
 ```
 
 ## Included functions

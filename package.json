@@ -1,6 +1,6 @@
 {
   "name": "gis-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some GIS utility functions I have used in multiple projects.",
   "main": "index.js",
   "scripts": {
