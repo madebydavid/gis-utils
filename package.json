@@ -1,0 +1,30 @@
+{
+  "name": "gis-utils",
+  "version": "1.0.0",
+  "description": "Some GIS utility functions I have used in multiple projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:madebydavid/gis-utils.git"
+  },
+  "keywords": [
+    "gis",
+    "deg2rad",
+    "rad2deg",
+    "haversineKm",
+    "calculateRadiusFromMapBounds",
+    "getNESWBoundsFromRadiusAndCenter",
+    "getNWSEBountsFromRadiusAndCenter",
+    "computeDestinationPoint",
+    "isLatAndLngInRectBoundary"
+  ],
+  "author": "madebydavid",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/madebydavid/gis-utils/issues"
+  },
+  "homepage": "https://github.com/madebydavid/gis-utils#readme"
+}
