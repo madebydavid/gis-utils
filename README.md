@@ -15,6 +15,6 @@ npm install gis-utils --save
 * `haversineKm(fromLocation, toLocation)`
 * `calculateRadiusFromMapBounds(bounds)`
 * `getNESWBoundsFromRadiusAndCenter(radius, center)`
-* `getNWSEBountsFromRadiusAndCenter(radius, center)`
+* `getNWSEBoundsFromRadiusAndCenter(radius, center)`
 * `computeDestinationPoint(lat, lon, distance, bearing, radius)`
 * `isLatAndLngInRectBoundary(point, boundary)`
