@@ -121,7 +121,7 @@ function getNESWBoundsFromRadiusAndCenter(radius, center) {
  * 
  * @return {Object}
  */
-function getNWSEBountsFromRadiusAndCenter(radius, center) {
+function getNWSEBoundsFromRadiusAndCenter(radius, center) {
 
   const earthRadiusM = 6378137;
 
@@ -220,7 +220,7 @@ module.exports = {
   haversineKm,
   calculateRadiusFromMapBounds,
   getNESWBoundsFromRadiusAndCenter,
-  getNWSEBountsFromRadiusAndCenter,
+  getNWSEBoundsFromRadiusAndCenter,
   computeDestinationPoint,
   isLatAndLngInRectBoundary
 };
